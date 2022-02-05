@@ -1,5 +1,7 @@
 # Algorand-Case-Study
 
+![alt text](https://logowik.com/content/uploads/images/algorand9941.jpg)
+
 ## Overview and Origin
 
 - Algorand Inc. (or ALGO)
