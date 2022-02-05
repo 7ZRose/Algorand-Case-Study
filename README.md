@@ -47,3 +47,19 @@
 - The other big players that are comparable to Algorand in the crypto-world for smart contracts would inclkude **Ethereum**, **Cardano**, **Binance**, and **Solana** among some others.
 
 - The competitors as far as blockchain technology go would include companies like **Qtum**, **NEO**, **Stratis Group**, and **Neblio**.
+
+## Results
+
+- Algorand has seemingly imprinted itself within the industry as setting the standard for what it means to be a sustainable blockchain. They have also made it apparent that you don't need to leave a huge carbon footprint - being that they are the *greenest blockchain*.
+
+- The real results of this will make themself evident in time, but being that this is a fairly new company and concept all together, we haven't seem too much of a grasp of what the potential of Algo actually is yet.
+
+- The core metrics of how a project like this is standing up right now is mostly in the numbers. Compared to the market cap of similar projects it would seem that either Algorand is either underperforming or my personal belief that they just haven't had their day to shine yet. 
+
+### The Numbers
+
+- Algorand MC - $6.6 billion
+- Ethereum MC - ~$360 billion
+- Binance/Binance Smart Chain MC - $67.9 billion
+- Solana MC - $35.7 billion
+- Cardano MC - $37.3 billion
