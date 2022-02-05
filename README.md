@@ -21,3 +21,11 @@
 - The biggest problem facing Algo at the moment would probably be staying ahead, or at least up to speed in the rapidly evolving battlefield of cryptocurrency. There are many companies gunning for the top spot in this realm. The trend has so far been as such; not progressing with current trends and/or implementing newer tech leaves you in the dust.
 
 - Another issue at hand - not directly from the company itself, but with one of it's partnered main hubs - is cyber security. The main trading platform [TinyMan](app.tinyman.org) was hacked into in early 2022 and millions of dollars were stolen from some of it's top performing projects within the Algorand network. As a result they had to shut down their service for a couple of weeks to figure out the vulnerability. Moving forward, trust will be a big factor in this company's success and others like it.
+
+- The company has a slew of potential customers and investors, ranging from everyday crypto traders buying coins on Coinbase to people who want to store information securely within a blockchain. 27 million people (or 8.3%) of Americans now own crypto - it is now estimated that over 114 million people globally hold crypto. These are all potential customers for Algo.
+
+- It is estimated that already over 10 million people are current Algorand holders.
+
+- Algo has many enticing technological features that could attract a wide base including; **Atomic Transfers** in Layer-1 (for secure transfers), the **Algorand Virtual Machine** tech (which is a powerful tool used for building smart contracts) and **Rekeying in Layer-1** [AlgoTech](https://www.algorand.com/technology)
+
+- They are utilizing the newest, fastest and most secure tech available right now. Their team created a *proof-of-stake* protocol, which is probably the most enticing trait of the project. It's not only a cheaper method of solving blocks on the blockchain (because it requires no expensive mining equipment) it is also more powerful than predecessors because it can generate even more because miners are pooling their resources. It is also faster than the competition - as opposed to taking 10 minutes to propogate a block into the network, Algo can propogate in seconds. [Proof-of-Stake](https://www.algorand.com/technology/pure-proof-of-stake)
