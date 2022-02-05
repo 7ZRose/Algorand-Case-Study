@@ -26,23 +26,23 @@
 
 - It is estimated that already **over 10 million people are current Algorand holders**.
 
-- Algo has many enticing technological features that could attract a wide base including; **Atomic Transfers** in Layer-1 (for secure transfers), the **Algorand Virtual Machine** tech (which is a powerful tool used for building smart contracts) and **Rekeying in Layer-1**. [AlgoTech](https://www.algorand.com/technology)
+- Algo has many enticing technological features that could attract a wide base including; **Atomic Transfers** in Layer-1 (for secure transfers), the **Algorand Virtual Machine** tech (which is a powerful tool used for building smart contracts) and **Rekeying in Layer-1**.
 
-- They are utilizing the newest, fastest and most secure tech available right now. Their team created a *proof-of-stake* protocol, which is probably the most enticing trait of the project. It's not only a cheaper method of solving blocks on the blockchain (because it requires no expensive mining equipment) it is also more powerful than predecessors because it can generate even more because miners are pooling their resources. It is also faster than the competition - as opposed to taking 10 minutes to propogate a block into the network, Algo can propogate in seconds. [Proof-of-Stake](https://www.algorand.com/technology/pure-proof-of-stake)
+- They are utilizing the newest, fastest and most secure tech available right now. Their team created a **proof-of-stake protocol**, which is probably the most enticing trait of the project. It's not only a **cheaper method of solving blocks on the blockchain** (because it requires no expensive mining equipment) it is also more powerful than predecessors because it can **generate even more because miners are pooling their resources**. It is also faster than the competition - as opposed to taking 10 minutes to propogate a block into the network (bitcoin), Algo can **propogate in seconds**.
 
 ## Landscape
 
 - Algorand is a blockchain ecosystem backed by a crypto currency of the same name. It would be categorized in the *alternate finance* domain of the financial industry.
 
 - Major milestones for Algo over the past few years include the following:
- - In April of 2019 they released the public testnet.
- - In June of 2019 they went live and officially launched
- - In November of 2019 they released their first major update which included ASA (*Algorand Standard Asset*), Atomics Assets and Algorand Smart Contracts (all heavily implementing Layer-1).
- - In 2020 the community devs created and released [TinyMan](app.tinyman.org) and [TinyCharts](tinycharts.org) - the current popular trading API and chart index respectively.
+ - In April of 2019 they released the **public testnet**.
+ - In June of 2019 they went live and **officially launched**.
+ - In November of 2019 they released their first major update which included **ASA** (*Algorand Standard Asset*), **Atomics Assets and Algorand Smart Contracts** (all heavily implementing Layer-1).
+ - In 2020 the community devs created and released [TinyMan](app.tinyman.org) and [TinyCharts](tinycharts.org) - the current popular **trading API and chart index** respectively.
 
-- Since they have been tweaking their project and as the community behind Algo continues to build they have made great strides to be one of the most high-functioning systems out there. While the applications associated with Algo are still in their infantile states they are still able to draw some decent numbers and continue to grow day in and day out. With more money pouring into the developers of these applications, updates and new features are being added quite regularly to improve functionality.
+- Ever since, they have been tweaking their project as needed. As the community behind Algo continues to build on it, they have made great strides to be one of the most high-functioning systems out there. While the applications associated with Algo are still in their infantile states they are still able to **draw some decent numbers** and continue to **grow day in and day out**. With more money pouring into the developers of these applications, updates and new features are being added quite regularly to improve functionality.
 
-- A cool feature that seems to exist exclusively in the TinyMan world is being able to opt-in to recieve tokens otherwise lost due to slippage post-transaction. For no fee you can have the tokens you would have lost elsewhere back into your wallet - as opposed to Uniswap or Binance - who just keep that slippage loss for themselves.
+- A cool feature that seems to exist exclusively in the TinyMan world is being able to **opt-in to recieve tokens otherwise lost due to slippage post-transaction**. For **no fee** you can have the tokens you would have lost elsewhere back into your wallet - as opposed to **Uniswap** or **Binance** - who just **keep that slippage loss for themselves**.
 
 - The other big players that are comparable to Algorand in the crypto-world for smart contracts would inclkude **Ethereum**, **Cardano**, **Binance**, and **Solana** among some others.
 
