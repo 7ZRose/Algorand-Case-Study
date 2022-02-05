@@ -16,4 +16,8 @@
 
 - Since it's inception, Algorand has been aimed towards creating a truly secured, decentralized and scalable blockchain. They have executed this exceptionally thus far. In regards to smart contracts; compared to competitors Algo has created a seemingly perfect blockchain ecosystem. They've been able to eliminate high gas fees and longer transaction speeds. 
 
-- They have created a very popular interface - the MyAlgo Wallet is very easy to use compared to some of the competitors along with an awesome features including a governance system in place for people looking to stake their coins for a reasonably high APY as well as a community voting system that will guide the project further based on it's users' preferences.
+- They have created a very popular API - the *MyAlgo Wallet* is very easy to use compared to some of the competitors along with an awesome features including a governance system in place for people looking to stake their coins for a reasonably high APY as well as a community voting system that will guide the project further based on it's users' preferences.
+
+- The biggest problem facing Algo at the moment would probably be staying ahead, or at least up to speed in the rapidly evolving battlefield of cryptocurrency. There are many companies gunning for the top spot in this realm. The trend has so far been as such; not progressing with current trends and/or implementing newer tech leaves you in the dust.
+
+- Another issue at hand - not directly from the company itself, but with one of it's partnered main hubs - is cyber security. The main trading platform [TinyMan](app.tinyman.org) was hacked into in early 2022 and millions of dollars were stolen from some of it's top performing projects within the Algorand network. As a result they had to shut down their service for a couple of weeks to figure out the vulnerability. Moving forward, trust will be a big factor in this company's success and others like it.
